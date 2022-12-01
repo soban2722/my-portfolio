@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://soban2722.github.io/my-portfolio/static/css/main.71abb208.css",
+    "main.js": "https://soban2722.github.io/my-portfolio/static/js/main.ccfc9e04.js",
+    "index.html": "https://soban2722.github.io/my-portfolio/index.html",
+    "main.71abb208.css.map": "https://soban2722.github.io/my-portfolio/static/css/main.71abb208.css.map",
+    "main.ccfc9e04.js.map": "https://soban2722.github.io/my-portfolio/static/js/main.ccfc9e04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71abb208.css",
+    "static/js/main.ccfc9e04.js"
+  ]
+}
